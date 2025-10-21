@@ -1,0 +1,14 @@
+# Bỏ dataset và dữ liệu nặng
+dataset/
+data_split/
+*.zip
+*.rar
+
+# Bỏ môi trường ảo và file hệ thống
+.venv/
+__pycache__/
+.idea/
+*.pyc
+
+# Nếu có file model quá nặng, không muốn up
+# fruit_model.h5

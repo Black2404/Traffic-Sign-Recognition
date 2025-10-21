@@ -1,0 +1,13 @@
+Giới hạn tốc độ 20 km/h
+Giới hạn tốc độ 30 km/h
+Giới hạn tốc độ 50 km/h
+Giới hạn tốc độ 60 km/h
+Giới hạn tốc độ 70 km/h
+Giới hạn tốc độ 80 km/h
+Hết hiệu lực giới hạn 80 km/h
+Giới hạn tốc độ 100 km/h
+Giới hạn tốc độ 120 km/h
+Cấm vượt
+Cấm xe trên 3,5 tấn vượt
+Được ưu tiên ở giao lộ kế tiếp
+Nhường đường
