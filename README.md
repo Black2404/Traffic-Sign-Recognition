@@ -1,4 +1,4 @@
-# ĐỒ ÁN XỬ LÝ ẢNH VÀ THỊ GIÁC MÁY TÍNH
+# ĐỒ ÁN HỌC MÁY
 
 Khoa Công Nghệ Thông Tin - Học Viện Hàng Không Việt Nam
 
